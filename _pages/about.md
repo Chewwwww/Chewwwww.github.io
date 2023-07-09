@@ -9,10 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-     <p>#</p>
-     <p>#</p>
-     <p>#</p>
-
+     <p>Email: chwu93 at ucla.edu</p>
+     
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -21,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 
 Hello! My name is Chi-Hao Wu. I am currently a PhD student working under the guidance of Dr. Jacob Bedrossian; before, I was a master student of Dr. Ting-Li Chen in Taiwan. 
 
-I am interested in random dynamical systems (RDS), PDE and Monte Carlo Markov Chain (MCMC). Please see [projects](chewwwww.github.io/projects) for more information about my research. 
+I am interested in random dynamical systems (RDS), PDE and Monte Carlo Markov Chain (MCMC). Please see [projects](chewwwww.github.io/projects) for more information. 
 
 % Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
