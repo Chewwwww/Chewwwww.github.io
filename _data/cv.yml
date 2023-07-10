@@ -2,32 +2,27 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Chi-Hao Wu 
     - name: Languages
-      value: English, German
+      value: English, Taiwanese, Mandarin
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Mathematics
+      institution: University of California, Los Angeles
+      year: 
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: MA in Mathematics
+      institution: University of Maryland, College Park 
+      year: 2019 - 2023
       description:
-        - Description 1.
-        - Description 2.
+    - title: MS in Applied Mathematical Sciences (Statistics track)
+      institution: National Taiwan University 
+      year: 2016 - 2018
+      description:
 
+        
 - title: Experience
   type: time_table
   contents:
